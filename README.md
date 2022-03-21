@@ -1,4 +1,4 @@
-Vaadin application with Spring Boot. (Vaadin CRM tutorial)
+Vaadin application with Spring Boot. (refer to Vaadin's CRM tutorial)
 
 
 ## Running the application
